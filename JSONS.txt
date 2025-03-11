@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "title": "Sombras en el Espejo",
+    "content": "Rostros ajenos me gritan verdades, ecos del miedo en las soledades. Soy el reflejo de un grito silente, preso en la jaula de un alma doliente. Mis pasos resuenan en la nada vacía, mientras mis ojos buscan una salida. El espejo me devuelve una mirada quebrada, un alma perdida, una esperanza olvidada. Sombras me acechan, susurros en el viento, recuerdos de un amor que se fue con el tiempo. ¿Seré solo un eco de lo que fui? ¿O encontraré en el abismo mi razón de existir?",
+    "category": "ROMANTICO",
+    "image": "https://quaderno.earth/c01b020b-2cb3-41a4-b2c4-2cdc98b27c00/write/og-images/798e93ba-6e80-4a3d-a0be-1a6a738d8c80/whatsapp-image-2024-11-07-at-10.02.47.jpeg-reduced-bHr1ff",
+    "likes": 0
+}
+
+{"id":2,"title":"Cautivos del Silencio","content":"En la quietud del abismo, mis manos temblorosas tocan el vacío. Cada palabra no dicha es una daga que perfora, un silencio pesado que nos consume. Te busco en los rincones de este mundo callado, donde las promesas ya no existen, y las mentiras se disfrazan de verdad. Somos prisioneros de nuestro propio dolor, atrapados en una prisión de emociones rotas. Mi alma llora sin voz, mi corazón late sin esperanza, y en el eco de tus ausencias, encuentro mi condena. La tragedia se teje en cada paso, en cada suspiro ahogado.","category":"TRAGICO","image":"https://franciscoromerozafra.com/wp-content/uploads/2024/10/21-09-24-Salida-Extraordinaria-Hdad.-Caridad-Aguilar5-853x576.jpg","likes":0}
+
+{"id":3,"title":"El Último Acto","content":"Todo comienza como una obra sin guion, un drama donde los actores son sombras errantes. Cada escena es una lucha constante, un conflicto sin resolución. Los gritos se mezclan con el viento, y en el escenario vacío solo quedan los ecos de un amor perdido. Las luces se apagan lentamente, como las esperanzas que se desvanecen ante nuestros ojos. Nos convertimos en personajes olvidados, atrapados en un drama que nunca termina. Y al final, el telón cae, dejando solo el vacío de lo que nunca fue. ¿Qué queda cuando el drama termina? Solo el recuerdo de un sufrimiento que ya no tiene fin.","category":"DRAMA","image":"https://i.blogs.es/d3a668/all-is-true1/1366_2000.jpeg","likes":0}

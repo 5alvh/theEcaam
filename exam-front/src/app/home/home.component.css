@@ -1,0 +1,13 @@
+ul {
+    z-index: 10;
+    position: absolute;
+    top: 100%; /* Position it below the input */
+    left: 0;
+    width: 100%;
+    border: 1px solid #ccc;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    margin-top: 1px; /* Small gap between the input and the dropdown */
+  }
+  
