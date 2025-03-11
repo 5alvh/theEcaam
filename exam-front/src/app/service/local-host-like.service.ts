@@ -11,7 +11,7 @@ export class LocalHostLikeService {
 
   getLiked(poemId: number): boolean {
     const likedPoems = JSON.parse(localStorage.getItem(this.storageKey) || '{}');
-    return likedPoems[poemId] || false;
+    return likedPoems[poemId] ;
   }
   
   setLiked(poemId: number, liked: boolean): void {
